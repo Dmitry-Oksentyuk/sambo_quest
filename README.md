@@ -1,6 +1,6 @@
 # sambo_quest
-Программа текствый квест "Первая тренировка по самбо по самбо"
+Text adventure program "The first training in Sambo"
 
 program is run from the command line
 
-кuby sambo_quest.rb
+ruby sambo_quest.rb
